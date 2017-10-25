@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Images/Splash.jpg</file>
+        <file>../Images/Transparent background.png</file>
+        <file>../Images/Key Logo 3.png</file>
+        <file>../Images/Key Logo.png</file>
+        <file>../Images/Close.png</file>
+        <file>../Images/Icon.png</file>
+        <file>../Images/Login Form Background.jpg</file>
+        <file>../Images/Login Form Background1.jpg</file>
+        <file>../Images/Background Main.jpg</file>
+        <file>../Images/Background Main 1.jpg</file>
+        <file>../Images/patient.png</file>
+        <file>../Images/Appointment.png</file>
+        <file>../Images/Doctor.png</file>
+        <file>../Images/Patient Logo.png</file>
+        <file>../Images/add-icon--mono-general-icons--softiconsm-24.png</file>
+        <file>../Images/b40dcda04d115471f895bad4ff89b5f8.png</file>
+        <file>../Images/Add Doctor Icon.png</file>
+        <file>../Images/View Doctor.png</file>
+        <file>../Images/Add Patient.png</file>
+        <file>../Images/View Patient.png</file>
+        <file>../Images/patient Backroung.jpg</file>
+        <file>../Images/patient BackroungBig.jpg</file>
+        <file>../Images/backroungBig.jpg</file>
+        <file>../Images/Cancel.png</file>
+        <file>../Images/Save Icon.png</file>
+        <file>../Images/Doctor Detais Bacground.jpg</file>
+        <file>../Images/Doctor Bacground.jpg</file>
+        <file>../Images/Update Icon.png</file>
+        <file>../Images/Main New Back.jpg</file>
+        <file>../Images/Appointment Deails Back.jpg</file>
+    </qresource>
+</RCC>
