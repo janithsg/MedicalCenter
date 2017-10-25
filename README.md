@@ -7,4 +7,4 @@ This system has features to,
 - Manage Doctors
 - Manage Appointments
 
-This was a second semester project of the degree.
+This was the second semester project of the degree.
